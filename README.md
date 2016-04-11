@@ -1,26 +1,37 @@
-# Java/Spark/Velocity File Structure Template
+# Rectangle Identifier
 
-#### January 14, 2016
+#### Application allows for user input of numbers and can tell if inputs create a rectangle or square. 2.15.2016
 
-#### By Chris Houghton and Trevor Elvey
+#### By Kyle Derrick
 
-## Description
+## Setup/Installation Requirements
 
-This is a template file structure for use in Epicodus Java/Spark/Velocity projects.
+* Clone this repository.
+* Make sure you have Java and Gradle installed.
+    * For Java:
+        * Download and install [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+        * Download and install [Java JRE](http://www.java.com/en/)
+    * For Gradle: if you are using Homebrew on Mac:
+        * $ brew update
+        * $ brew install gradle
+* In the top level of the cloned directory, run the following command in your terminal:
+    * $ gradle run
+* Open your web browser of choice to localhost:4567
 
-## How To Use
+## Known Bugs
 
-* Make a directory for your project and initialize a git repository.
-* Pull this file structure template from GitHub: `git pull https://github.com/JeffreyRuder/java-spark-template.git`
+No known bugs.
 
-OR:
+## Support and contact details
 
-* Fork this repository from GitHub and rename it
-
-## Please Make This Better
-
-Please fork this repository and send a pull request if something in here could be better.
+Contact kderrick through github.
 
 ## Technologies Used
 
-Java, Spark, JUnit, FluentLenium, Velocity, Bootstrap
+This project was built using HTML, CSS, Bootstrap, Atom, Java, junit and Fluentlentium.
+
+
+### License
+MIT License.
+
+Copyright (c) 2016  **Kyle Derrick**
